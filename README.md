@@ -4,7 +4,7 @@
 
 #### ✨ About Me in 10 Secs ✨
 - 👩🏻‍💻 Accountant turned data analyst
-- 🏡 Moved from District of Columbia 🏙 to Daytona Beach 🏝 in 2022
+- 🏡 Moved from District of Columbia 🏙 to Florida 🏝 in 2022
 - 📊 Transition to data field in 2020
 - 📝 Loves working with numbers and learning new skills
 
