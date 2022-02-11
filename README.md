@@ -15,7 +15,7 @@
 - Modelling: Machine Learning, Natural Language Processing, Data Mining, Time Series Forecasting, A/B Testing   	
 
 ####  📚 Projects & Guides
-- Click **[HERE](https://github.com/luoyuwen31)** for my projects and guides.
+- Click **[HERE](https://github.com/luoyuwen31/portfolio_guide/tree/main)** for my projects and guides.
 
 #### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yuwen-luo-96a70b116/)
