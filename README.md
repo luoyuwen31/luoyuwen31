@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**luoyuwen31/luoyuwen31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Data Analyst working in United States.
 
-Here are some ideas to get you started:
+#### ✨ About Me in 10 Secs ✨
+- 👩🏻‍💻 Accountant turned data analyst
+- 🏡 Moved from District of Columbia 🏙 to Daytona Beach 🏝 in 2022
+- 📊 Transition to data field in 2020
+- 📝 Loves working with numbers and learning new skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💡Core Competencies
+- Programming: Python (Pandas, NumPy, Matplotlib, Scikit-Learn), SQL, R, PySpark, Excel, Tableau 
+- Platform: AWS (S3, EC2, Sagemaker), Azure(Databricks), Salesforce, Google Analytics, Docker
+- Modelling: Machine Learning, Natural Language Processing, Data Mining, Time Series Forecasting, A/B Testing   	
+
+####  📚 Projects & Guides
+- Click **[HERE](https://github.com/luoyuwen31)** for my projects and guides.
+
+#### 🙌🏻 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yuwen-luo-96a70b116/)
